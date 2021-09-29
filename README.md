@@ -1,11 +1,12 @@
-# WER TOOL
+# WER Tool
+Node script thats calculate the WER (Word Error Rate) between two transcriptions: human transcription vs transcription by artificial intelligence
 
 ## Install Node and NPM
 [How to Install Node JS and NPM in Windows 10 and Ubuntu 20.04 correctly {Update 2021}](https://cloudlinuxtech.com/how-to-install-node-js-npm/)
 
 ## Project setup
 ```
-cd wer-tool
+cd wer-tool/
 ```
 ```
 npm install
